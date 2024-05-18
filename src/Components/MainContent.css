@@ -1,0 +1,24 @@
+.main{
+    padding-top: 14%;
+    padding-right: 60%;
+    
+    text-align: left;
+    
+  
+}
+.fontt{
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+ }
+.mar{
+    
+    padding: 18px;
+}
+.mar1{
+   
+    padding: 8px;
+    width: 110vh;
+    padding-bottom: 35px;
+}

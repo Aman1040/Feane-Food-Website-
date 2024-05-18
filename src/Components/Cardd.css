@@ -1,0 +1,24 @@
+.mainn{
+    border: "2px solid black";
+    background-color: #35374B;
+    display: flex;
+    margin-bottom: 10%;
+    margin-right: 6%;
+    border-radius: 1ch;
+}
+p{
+    margin: 0;
+}
+p:first-child{
+    margin-top: '10vh';
+}
+.contain{
+    margin-top: 8vh;
+    margin-right: 20vh;
+        font-family: "Dancing Script", cursive;
+        margin-bottom: 8vh;
+        font-size:5ch;
+        
+        font-style: normal;
+    
+}

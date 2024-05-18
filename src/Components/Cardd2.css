@@ -1,0 +1,32 @@
+.lower{
+  
+    color:white;
+ 
+}
+.upper{
+    border-radius: 3ch;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    border-bottom-left-radius: 5vh;
+    height:50%;
+    background-color:#F6F5F2 ;
+}
+.prize{
+    display: flex;
+}
+#text{
+    margin-left: 10px;
+
+}
+
+.container1{
+    border-radius: 3ch;
+    background-color: #232D3F;
+    
+    width: 40vh;
+    font-size:xx-small;
+    height: 50vh;
+    margin-bottom: 10vh;
+    margin-left: 5vh;
+}

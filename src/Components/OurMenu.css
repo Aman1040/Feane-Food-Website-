@@ -1,0 +1,47 @@
+.head{
+    color:black;
+   
+    justify-content: center;
+    text-align: center;
+    font-family: "Dancing Script", cursive;
+    margin-bottom: 8vh;
+    font-size:5ch;
+    
+    font-style: normal;
+}
+.cardd{
+    justify-content: center;
+    display: flex;
+}
+.btn{
+
+    margin-bottom: 8%;
+    padding-left: 45%;
+    
+}
+.part1{
+    background-image: url(../Photos/weareimg.png);
+     background-position: center center;
+     background-size: 60% ;
+     background-repeat: no-repeat;
+ 
+ width: 50%;
+ height: 100%;
+}
+.part2{
+    width: 50%;
+   
+}
+.weare{
+   
+    display: flex;
+    
+    justify-content: center;
+    align-items: center;
+    
+    height: 100vh;
+    margin-bottom: 10%;
+    margin-left: 0;
+    color:white;
+    background-color: #232D3F;
+}
